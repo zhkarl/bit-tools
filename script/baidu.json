@@ -1,0 +1,65 @@
+[
+    {
+        "command": "创建比特窗口",
+        "params": [
+            "http://127.0.0.1:54345",
+            "是",
+            "是",
+            "是",
+            "http://127.0.0.1:5001/proxy"
+        ]
+    },
+    {
+        "command": "打开比特窗口",
+        "params": null
+    },
+    {
+        "command": "修改窗口代理",
+        "params": [
+            "api",
+            "http"
+        ]
+    },
+    {
+        "command": "循环起点",
+        "params": null
+    },
+    {
+        "command": "窗口随机指纹",
+        "params": null
+    },
+    {
+        "command": "访问URL",
+        "params": [
+            "https://www.baidu.com/"
+        ]
+    },
+    {
+        "command": "输入文本",
+        "params": [
+            "#kw",
+            "美国大选"
+        ]
+    },
+    {
+        "command": "鼠标点击",
+        "params": [
+            "#su"
+        ]
+    },
+    {
+        "command": "时间等待",
+        "params": [
+            "10",
+            "是"
+        ]
+    },
+    {
+        "command": "循环终点",
+        "params": null
+    },
+    {
+        "command": "删除比特窗口",
+        "params": null
+    }
+]
